@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/comfy_cartel/static/css/main.1724b122.chunk.css",
+    "main.css": "/comfy_cartel/static/css/main.9d65c381.chunk.css",
     "main.js": "/comfy_cartel/static/js/main.30c5c976.chunk.js",
     "main.js.map": "/comfy_cartel/static/js/main.30c5c976.chunk.js.map",
     "runtime-main.js": "/comfy_cartel/static/js/runtime-main.e34afc57.js",
@@ -12,7 +12,7 @@
     "static/js/3.24661899.chunk.js.map": "/comfy_cartel/static/js/3.24661899.chunk.js.map",
     "index.html": "/comfy_cartel/index.html",
     "static/css/2.65a3ed79.chunk.css.map": "/comfy_cartel/static/css/2.65a3ed79.chunk.css.map",
-    "static/css/main.1724b122.chunk.css.map": "/comfy_cartel/static/css/main.1724b122.chunk.css.map",
+    "static/css/main.9d65c381.chunk.css.map": "/comfy_cartel/static/css/main.9d65c381.chunk.css.map",
     "static/js/2.c0420b9f.chunk.js.LICENSE.txt": "/comfy_cartel/static/js/2.c0420b9f.chunk.js.LICENSE.txt",
     "static/media/index.css": "/comfy_cartel/static/media/Lato-Thin.01923cbb.ttf",
     "static/media/About.scss": "/comfy_cartel/static/media/about-bg.9a93d4cd.jpg",
@@ -54,7 +54,7 @@
     "static/js/runtime-main.e34afc57.js",
     "static/css/2.65a3ed79.chunk.css",
     "static/js/2.c0420b9f.chunk.js",
-    "static/css/main.1724b122.chunk.css",
+    "static/css/main.9d65c381.chunk.css",
     "static/js/main.30c5c976.chunk.js"
   ]
 }
