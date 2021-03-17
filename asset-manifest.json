@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/comfy_cartel/static/css/main.9d65c381.chunk.css",
-    "main.js": "/comfy_cartel/static/js/main.30c5c976.chunk.js",
-    "main.js.map": "/comfy_cartel/static/js/main.30c5c976.chunk.js.map",
-    "runtime-main.js": "/comfy_cartel/static/js/runtime-main.e34afc57.js",
-    "runtime-main.js.map": "/comfy_cartel/static/js/runtime-main.e34afc57.js.map",
+    "main.css": "/comfy_cartel/static/css/main.9d195efc.chunk.css",
+    "main.js": "/comfy_cartel/static/js/main.dc76c131.chunk.js",
+    "main.js.map": "/comfy_cartel/static/js/main.dc76c131.chunk.js.map",
+    "runtime-main.js": "/comfy_cartel/static/js/runtime-main.40115239.js",
+    "runtime-main.js.map": "/comfy_cartel/static/js/runtime-main.40115239.js.map",
     "static/css/2.65a3ed79.chunk.css": "/comfy_cartel/static/css/2.65a3ed79.chunk.css",
-    "static/js/2.c0420b9f.chunk.js": "/comfy_cartel/static/js/2.c0420b9f.chunk.js",
-    "static/js/2.c0420b9f.chunk.js.map": "/comfy_cartel/static/js/2.c0420b9f.chunk.js.map",
-    "static/js/3.24661899.chunk.js": "/comfy_cartel/static/js/3.24661899.chunk.js",
-    "static/js/3.24661899.chunk.js.map": "/comfy_cartel/static/js/3.24661899.chunk.js.map",
+    "static/js/2.260104f1.chunk.js": "/comfy_cartel/static/js/2.260104f1.chunk.js",
+    "static/js/2.260104f1.chunk.js.map": "/comfy_cartel/static/js/2.260104f1.chunk.js.map",
+    "static/js/3.bc7866de.chunk.js": "/comfy_cartel/static/js/3.bc7866de.chunk.js",
+    "static/js/3.bc7866de.chunk.js.map": "/comfy_cartel/static/js/3.bc7866de.chunk.js.map",
     "index.html": "/comfy_cartel/index.html",
     "static/css/2.65a3ed79.chunk.css.map": "/comfy_cartel/static/css/2.65a3ed79.chunk.css.map",
-    "static/css/main.9d65c381.chunk.css.map": "/comfy_cartel/static/css/main.9d65c381.chunk.css.map",
-    "static/js/2.c0420b9f.chunk.js.LICENSE.txt": "/comfy_cartel/static/js/2.c0420b9f.chunk.js.LICENSE.txt",
+    "static/css/main.9d195efc.chunk.css.map": "/comfy_cartel/static/css/main.9d195efc.chunk.css.map",
+    "static/js/2.260104f1.chunk.js.LICENSE.txt": "/comfy_cartel/static/js/2.260104f1.chunk.js.LICENSE.txt",
     "static/media/index.css": "/comfy_cartel/static/media/Lato-Thin.01923cbb.ttf",
     "static/media/About.scss": "/comfy_cartel/static/media/about-bg.9a93d4cd.jpg",
     "static/media/ChapterList.scss": "/comfy_cartel/static/media/chapters-bg.52e6d918.jpg",
@@ -24,7 +24,7 @@
     "static/media/lily_cover.92fa7db2.jpg": "/comfy_cartel/static/media/lily_cover.92fa7db2.jpg",
     "static/media/lily_profile.b97082a3.jpg": "/comfy_cartel/static/media/lily_profile.b97082a3.jpg",
     "static/media/lily_thumbnail.f3512a8b.jpg": "/comfy_cartel/static/media/lily_thumbnail.f3512a8b.jpg",
-    "static/media/logo-2.8f8aa56f.png": "/comfy_cartel/static/media/logo-2.8f8aa56f.png",
+    "static/media/logo-03.8967d6b8.png": "/comfy_cartel/static/media/logo-03.8967d6b8.png",
     "static/media/michael_cover.41a7eeed.jpg": "/comfy_cartel/static/media/michael_cover.41a7eeed.jpg",
     "static/media/michael_profile.88dc46b6.jpg": "/comfy_cartel/static/media/michael_profile.88dc46b6.jpg",
     "static/media/michael_thumbnail.be299adc.jpg": "/comfy_cartel/static/media/michael_thumbnail.be299adc.jpg",
@@ -51,10 +51,10 @@
     "static/media/yvonne_thumbnail.8bef2a1f.jpg": "/comfy_cartel/static/media/yvonne_thumbnail.8bef2a1f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e34afc57.js",
+    "static/js/runtime-main.40115239.js",
     "static/css/2.65a3ed79.chunk.css",
-    "static/js/2.c0420b9f.chunk.js",
-    "static/css/main.9d65c381.chunk.css",
-    "static/js/main.30c5c976.chunk.js"
+    "static/js/2.260104f1.chunk.js",
+    "static/css/main.9d195efc.chunk.css",
+    "static/js/main.dc76c131.chunk.js"
   ]
 }
