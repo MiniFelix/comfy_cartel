@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/comfy_cartel/static/css/main.cbb570d1.chunk.css",
-    "main.js": "/comfy_cartel/static/js/main.aecbbc27.chunk.js",
-    "main.js.map": "/comfy_cartel/static/js/main.aecbbc27.chunk.js.map",
+    "main.css": "/comfy_cartel/static/css/main.081d4dbb.chunk.css",
+    "main.js": "/comfy_cartel/static/js/main.93312e71.chunk.js",
+    "main.js.map": "/comfy_cartel/static/js/main.93312e71.chunk.js.map",
     "runtime-main.js": "/comfy_cartel/static/js/runtime-main.40115239.js",
     "runtime-main.js.map": "/comfy_cartel/static/js/runtime-main.40115239.js.map",
     "static/css/2.65a3ed79.chunk.css": "/comfy_cartel/static/css/2.65a3ed79.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.bc7866de.chunk.js.map": "/comfy_cartel/static/js/3.bc7866de.chunk.js.map",
     "index.html": "/comfy_cartel/index.html",
     "static/css/2.65a3ed79.chunk.css.map": "/comfy_cartel/static/css/2.65a3ed79.chunk.css.map",
-    "static/css/main.cbb570d1.chunk.css.map": "/comfy_cartel/static/css/main.cbb570d1.chunk.css.map",
+    "static/css/main.081d4dbb.chunk.css.map": "/comfy_cartel/static/css/main.081d4dbb.chunk.css.map",
     "static/js/2.260104f1.chunk.js.LICENSE.txt": "/comfy_cartel/static/js/2.260104f1.chunk.js.LICENSE.txt",
     "static/media/index.css": "/comfy_cartel/static/media/Lato-Thin.01923cbb.ttf",
     "static/media/About.scss": "/comfy_cartel/static/media/about-bg.9a93d4cd.jpg",
@@ -29,7 +29,7 @@
     "static/media/michael_profile.88dc46b6.jpg": "/comfy_cartel/static/media/michael_profile.88dc46b6.jpg",
     "static/media/michael_thumbnail.be299adc.jpg": "/comfy_cartel/static/media/michael_thumbnail.be299adc.jpg",
     "static/media/NotFound.scss": "/comfy_cartel/static/media/not-found-bg.984991d5.jpg",
-    "static/media/not-found.e2c222c0.jpg": "/comfy_cartel/static/media/not-found.e2c222c0.jpg",
+    "static/media/not-found.6e12428f.jpeg": "/comfy_cartel/static/media/not-found.6e12428f.jpeg",
     "static/media/poki_cover.11ffe8e6.jpg": "/comfy_cartel/static/media/poki_cover.11ffe8e6.jpg",
     "static/media/poki_profile.499b1217.jpg": "/comfy_cartel/static/media/poki_profile.499b1217.jpg",
     "static/media/poki_thumbnail.c2d88961.jpg": "/comfy_cartel/static/media/poki_thumbnail.c2d88961.jpg",
@@ -54,7 +54,7 @@
     "static/js/runtime-main.40115239.js",
     "static/css/2.65a3ed79.chunk.css",
     "static/js/2.260104f1.chunk.js",
-    "static/css/main.cbb570d1.chunk.css",
-    "static/js/main.aecbbc27.chunk.js"
+    "static/css/main.081d4dbb.chunk.css",
+    "static/js/main.93312e71.chunk.js"
   ]
 }
