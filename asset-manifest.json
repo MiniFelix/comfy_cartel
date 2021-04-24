@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/comfy_cartel/static/css/main.ee11a76f.chunk.css",
-    "main.js": "/comfy_cartel/static/js/main.f25df16a.chunk.js",
+    "main.css": "/comfy_cartel/static/css/main.13165e8a.chunk.css",
+    "main.js": "/comfy_cartel/static/js/main.2210121d.chunk.js",
     "runtime-main.js": "/comfy_cartel/static/js/runtime-main.61f62d11.js",
     "static/css/2.d28a2787.chunk.css": "/comfy_cartel/static/css/2.d28a2787.chunk.css",
     "static/js/2.94916770.chunk.js": "/comfy_cartel/static/js/2.94916770.chunk.js",
@@ -9,7 +9,7 @@
     "index.html": "/comfy_cartel/index.html",
     "static/js/2.94916770.chunk.js.LICENSE.txt": "/comfy_cartel/static/js/2.94916770.chunk.js.LICENSE.txt",
     "static/media/index.css": "/comfy_cartel/static/media/Lato-Thin.01923cbb.ttf",
-    "static/media/cc-logo.f459e17f.png": "/comfy_cartel/static/media/cc-logo.f459e17f.png",
+    "static/media/cc-logo.a25fff91.png": "/comfy_cartel/static/media/cc-logo.a25fff91.png",
     "static/media/facebook-logo.8920e108.svg": "/comfy_cartel/static/media/facebook-logo.8920e108.svg",
     "static/media/instagram-logo-no-outline.c2e38b3d.svg": "/comfy_cartel/static/media/instagram-logo-no-outline.c2e38b3d.svg",
     "static/media/instagram-logo.aa1fb930.svg": "/comfy_cartel/static/media/instagram-logo.aa1fb930.svg",
@@ -25,7 +25,7 @@
     "static/js/runtime-main.61f62d11.js",
     "static/css/2.d28a2787.chunk.css",
     "static/js/2.94916770.chunk.js",
-    "static/css/main.ee11a76f.chunk.css",
-    "static/js/main.f25df16a.chunk.js"
+    "static/css/main.13165e8a.chunk.css",
+    "static/js/main.2210121d.chunk.js"
   ]
 }
