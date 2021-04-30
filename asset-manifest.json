@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/comfy_cartel/static/css/main.6dbe1438.chunk.css",
-    "main.js": "/comfy_cartel/static/js/main.3ecf68c2.chunk.js",
-    "runtime-main.js": "/comfy_cartel/static/js/runtime-main.dbaaf285.js",
+    "main.js": "/comfy_cartel/static/js/main.ab94b965.chunk.js",
+    "runtime-main.js": "/comfy_cartel/static/js/runtime-main.015db1c2.js",
     "static/js/2.5cb5e024.chunk.js": "/comfy_cartel/static/js/2.5cb5e024.chunk.js",
     "static/css/3.d6a932b2.chunk.css": "/comfy_cartel/static/css/3.d6a932b2.chunk.css",
     "static/js/3.4fb623ab.chunk.js": "/comfy_cartel/static/js/3.4fb623ab.chunk.js",
     "static/css/4.100b230f.chunk.css": "/comfy_cartel/static/css/4.100b230f.chunk.css",
     "static/js/4.e7f1a99b.chunk.js": "/comfy_cartel/static/js/4.e7f1a99b.chunk.js",
     "static/css/5.4cf6271f.chunk.css": "/comfy_cartel/static/css/5.4cf6271f.chunk.css",
-    "static/js/5.0821d80a.chunk.js": "/comfy_cartel/static/js/5.0821d80a.chunk.js",
+    "static/js/5.b689f60a.chunk.js": "/comfy_cartel/static/js/5.b689f60a.chunk.js",
     "static/css/6.e3b0519b.chunk.css": "/comfy_cartel/static/css/6.e3b0519b.chunk.css",
-    "static/js/6.95a5e69d.chunk.js": "/comfy_cartel/static/js/6.95a5e69d.chunk.js",
+    "static/js/6.c7229405.chunk.js": "/comfy_cartel/static/js/6.c7229405.chunk.js",
     "static/css/7.484035e8.chunk.css": "/comfy_cartel/static/css/7.484035e8.chunk.css",
-    "static/js/7.8981dd38.chunk.js": "/comfy_cartel/static/js/7.8981dd38.chunk.js",
+    "static/js/7.3bfa52cc.chunk.js": "/comfy_cartel/static/js/7.3bfa52cc.chunk.js",
     "static/css/8.f8b065a0.chunk.css": "/comfy_cartel/static/css/8.f8b065a0.chunk.css",
-    "static/js/8.9fa75d45.chunk.js": "/comfy_cartel/static/js/8.9fa75d45.chunk.js",
+    "static/js/8.1ebd2307.chunk.js": "/comfy_cartel/static/js/8.1ebd2307.chunk.js",
     "static/css/9.c863d4b7.chunk.css": "/comfy_cartel/static/css/9.c863d4b7.chunk.css",
     "static/js/9.230daf05.chunk.js": "/comfy_cartel/static/js/9.230daf05.chunk.js",
     "static/css/10.697b7547.chunk.css": "/comfy_cartel/static/css/10.697b7547.chunk.css",
@@ -42,9 +42,9 @@
     "static/media/youtube-logo.45553328.svg": "/comfy_cartel/static/media/youtube-logo.45553328.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.dbaaf285.js",
+    "static/js/runtime-main.015db1c2.js",
     "static/js/2.5cb5e024.chunk.js",
     "static/css/main.6dbe1438.chunk.css",
-    "static/js/main.3ecf68c2.chunk.js"
+    "static/js/main.ab94b965.chunk.js"
   ]
 }
